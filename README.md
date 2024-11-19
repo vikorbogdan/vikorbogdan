@@ -1,1 +1,1 @@
-![Wakatime Graph](https://wakatime.com/share/@vikorbogdan/f9ad0873-b33e-4e2b-b616-802f20031100.svg)
+[![wakatime](https://wakatime.com/badge/user/6aaca315-e338-4287-a2b7-d2ddf98a9eb3.svg)](https://wakatime.com/@6aaca315-e338-4287-a2b7-d2ddf98a9eb3)
